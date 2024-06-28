@@ -1,12 +1,15 @@
 CS 340 README Joel Hays
 
 **Q: How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+
 A: Writing maintainable, readable, and adaptable code involves following best practices like modularity, clearly naming variables, and thorough documentation. The CRUD Python module, developed for the dashboard is fairly straightforward in order to connect the database and extend functionality in future projects. This approach ensures current success and prepares the groundwork for future enhancements and scalability.
 
 **Q: How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+
 A: Approaching problems as a computer scientist means breaking down complex requirements into manageable tasks and systematically addressing them. For the Grazioso Salvare project, I identified key requirements laid out in the assignments, performed goals in steps, and systematically integrated them. Unlike previous coursework, this project emphasized real-world application and client needs, showing the importance of adaptability and user-centric design. Moving forward, I’ll continue using structured problem-solving techniques to effectively meet client requirements.
 
 **Q: What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+
 A: Computer scientists play a crucial role in designing and implementing solutions that solve real-world problems and improve efficiency. My work on the Grazioso Salvare project supports the company by streamlining the process of identifying and categorizing rescue dogs, which enhanced operational efficiency. This project shows how effective software development can significantly impact organizational success, and demonstrates the value of computer science in practical ways.
 
 Project Overview
